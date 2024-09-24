@@ -3,7 +3,9 @@
 `"Pygame Linked List Visualizer"` - This project presents an example of an animated linked list created using the Pygame library. Each node is represented as a circle, and the connections between the nodes are shown with colored lines. Additionally, this animation moves the node list according to the mouse position and offers customization options for the growth rate, position, and connections of the nodes.
 
 
-https://github.com/usrcan/Pygame-Animated-Linked-List/assets/101993364/d7d233c9-3073-4b57-9298-8a4e701c0410
+https://github.com/user-attachments/assets/ab2cc867-e594-4222-9891-24cba37895d6
+
+
 
 
 
